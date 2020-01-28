@@ -1,0 +1,10 @@
+:host {
+display: flex;
+padding: 5px;
+gap: 5px;
+overflow-x: scroll;
+width: 100%;
+flex-wrap: nowrap ;
+justify-content: flex-start;
+align-items: stretch;
+}
